@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://auralynx-systems.com/sitemap.xml
