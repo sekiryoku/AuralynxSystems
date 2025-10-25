@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://auralynx-systems.com/sitemap.xml
+Sitemap: https://petrolynx-systems.com/sitemap.xml
